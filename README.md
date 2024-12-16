@@ -19,7 +19,7 @@ tecnico superior preceptor
      - Sueldos Promedios Anuales de Preceptores en Colegios Públicos de Departamentos de Misiones (2020-2024)
    
    ### Se adjunta Reporte: Informe Preceptores en el Nivel Secundario - Región Noreste Argentino.
-   [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+   [[Informe Preceptores en el Nivel Secundario - Región Noreste Argentino](https://docs.google.com/document/d/1vhz5HLrbmkO3oNatF8YVcmzz4_FBapxpHBx1ZIJWzKU/edit?tab=t.0#heading=h.e0z18dr2gqwi)]
    
    ### Se adjunta información sobre Sueldos Promedios Anuales de Preceptores en Argentina.
    [[Tablas de Sueldos Promedios Preceptores en Argentina](https://docs.google.com/spreadsheets/d/1stYtE50wwAGCFQgc6B3Om8VQQj1kODQ5ZLgkWszHzw8/edit?gid=0#gid=0)]
